@@ -1,7 +1,5 @@
 # root
 
-Main site for Hoonio Ltd
-
 Stacks: React, Redux, D3, Node.js|Express
 
 ### Running locally
@@ -16,5 +14,3 @@ Stacks: React, Redux, D3, Node.js|Express
 
 `npm run production` to preview the production build
 
-
-Preview before each release is available on https://test.hoonio.com
